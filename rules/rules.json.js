@@ -2,8 +2,8 @@
     "gfwlist": {
     "name": "gfwlist.conf",
         "date": "2025-05-31 13:49",
-        "md5": "0841435550791581e1d08da69507f295",
-        "count": "70"
+        "md5": "f9cf093cec4e29ae764c1352504829d1",
+        "count": "72"
 },
     "gfwlist_txt": {
     "name": "gfwlist.txt",
